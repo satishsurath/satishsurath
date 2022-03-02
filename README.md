@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 💼 I'm an IT Infrastructure Manager focusing on IT Enablement and Digital Transformation Projects
-- 💬 I'm also [Work Life Travel Integration](https://nomadic-me.com/blog/2020/12/22/work-life-travel-integration/) Advocate
-- 👀 I'm passionate about Blockchain 🔗,  Decarbonization ♻️ and XR technology 👀
-- 🌱 I'm learning Python, Decentralized identifiers (DIDs) and other Hyperledger technologies
-- 📫 I'm on [Twitter](https://twitter.com/nomadic_me), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://n-m.co/)
-- ⚡ I love endorphins 🏃‍♂️, outdoors ⛰, technology 📟 and manufacturing serendipity 🪃 !
+- 💬 Also [Work Life Travel Integration](https://nomadic-me.com/blog/2020/12/22/work-life-travel-integration/) Advocate
+- 👀 Passionate about Blockchain 🔗,  Decarbonization ♻️ and XR technology 👀
+- 🌱 Learning Python, Decentralized identifiers (DIDs) and other Hyperledger technologies
+- 📫 On [Twitter](https://twitter.com/nomadic_me), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://n-m.co/)
+- ⚡ Love endorphins 🏃‍♂️, outdoors ⛰, technology 📟 and manufacturing serendipity 🪃 !
 
 <!-- Information Technology Manager with 14 years experience in IT Enablement and Digital Transformation Projects at Siemens. 
 Intrapreneur at heart.
