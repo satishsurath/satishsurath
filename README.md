@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 I'm an IT Infrastructure Manager focusing on IT Enablement and Digital Transformation Projects
-- 💬 Also [Work Life Travel Integration](https://nomadic-me.com/blog/2020/12/22/work-life-travel-integration/) Advocate
+- 💬 Also a [Work Life Travel Integration](https://nomadic-me.com/blog/2020/12/22/work-life-travel-integration/) Advocate
 - 👀 Passionate about Blockchain 🔗,  Decarbonization ♻️ and XR technology 👀
 - 🌱 Learning Python, Decentralized identifiers (DIDs) and other Hyperledger technologies
 - 📫 On [Twitter](https://twitter.com/nomadic_me), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://n-m.co/)
