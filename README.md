@@ -5,7 +5,7 @@
 - 👀 Passionate about Blockchain 🔗,  Decarbonization 🌎 and XR technology 👀
 - 🌱 Learning Python, Decentralized identifiers (DIDs) and Hyperledger stack
 - 📫 On [Twitter](https://twitter.com/nomadic_me), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://n-m.co/)
-- ⚡ Love endorphins 🏃‍♂️, outdoors ⛰ and manufacturing serendipity ⚙️ !
+- ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
 
 <!-- Information Technology Manager with 14 years experience in IT Enablement and Digital Transformation Projects at Siemens. 
 Intrapreneur at heart.
