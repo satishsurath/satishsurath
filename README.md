@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 [Work Life Travel Integration](https://nomadic-me.com/blog/2020/12/22/work-life-travel-integration/) Advocate
+- 💬 [Work Life Travel Integration](https://nomadic-me.com/blog/2020/12/22/work-life-travel-integration/) Advocate 🌎🧑‍💻
 - 💼 IT infrastructure Head on paper | An Intrapreneur in action 👋
 - 👀 Passionate about Blockchain 🔗,  Decarbonization 🌎 and XR technology 👀
 - 🌱 Learning Python, Decentralized identifiers (DIDs) 🔎 and Hyperledger stack 🥞
