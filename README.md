@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 💬 [Work Life Travel Integration](https://nomadic-me.com/blog/2020/12/22/work-life-travel-integration/) Advocate
-- 💼 IT infrastructure Head on paper | An Intrapreneur in action
+- 💼 IT infrastructure Head on paper | An Intrapreneur in action 👋
 - 👀 Passionate about Blockchain 🔗,  Decarbonization 🌎 and XR technology 👀
-- 🌱 Learning Python, Decentralized identifiers (DIDs) and Hyperledger stack
+- 🌱 Learning Python, Decentralized identifiers (DIDs) 🔎 and Hyperledger stack 🥞
 - ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
 - 📫 On [Twitter](https://twitter.com/nomadic_me), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://n-m.co/)
 
