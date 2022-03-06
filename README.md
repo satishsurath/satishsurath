@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 💼 IT infrastructure Head on paper | An Intrapreneur in action
 - 💬 [Work Life Travel Integration](https://nomadic-me.com/blog/2020/12/22/work-life-travel-integration/) Advocate
+- 💼 IT infrastructure Head on paper | An Intrapreneur in action
 - 👀 Passionate about Blockchain 🔗,  Decarbonization 🌎 and XR technology 👀
 - 🌱 Learning Python, Decentralized identifiers (DIDs) and Hyperledger stack
-- 📫 On [Twitter](https://twitter.com/nomadic_me), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://n-m.co/)
 - ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
+- 📫 On [Twitter](https://twitter.com/nomadic_me), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://n-m.co/)
 
 <!-- Information Technology Manager with 14 years experience in IT Enablement and Digital Transformation Projects at Siemens. 
 Intrapreneur at heart.
