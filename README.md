@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 IT infrastructure Head on paper | An Intrapreneur in action 👋
+- 💼 Head of IT infrastructure on paper | An Intrapreneur in action 👋
 - 👀 Passionate about Blockchain 🔗,  Decarbonization 🌎 and XR technology 👀
 - 🌱 Learning Python, Decentralized identifiers (DIDs) 🔎 and Hyperledger stack 🥞
 - ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
