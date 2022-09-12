@@ -5,7 +5,7 @@
 - 👀 Passionate about Blockchain 🔗,  Decarbonization 🌎 and XR technology 👀
 - 🌱 Learning Python, Decentralized identifiers (DIDs) 🔎 and Hyperledger stack 🥞
 - ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
-- 📫 On [Twitter](https://twitter.com/satishsurath), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https:/sati.sh/)
+- 📫 On [Twitter](https://twitter.com/satishsurath), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://sati.sh/)
 
 <!-- Information Technology Manager with 14 years experience in IT Enablement and Digital Transformation Projects at Siemens. 
 Intrapreneur at heart.
