@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 Head of IT infrastructure on paper | An Intrapreneur in action 👋 
-- 🌙 Full Stack Blockchain Developer by Night | Executive MBA candidate on Weekends 🎓
+- 🌙 Full Stack Developer by Night | Executive MBA candidate on Weekends 🎓
 - 👀 Passionate about Blockchain 🔗,  Decarbonization 🌎 and XR technology 👀
 - 🌱 Learning Python, Decentralized identifiers (DIDs) 🔎 and Hyperledger stack 🥞
 - ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
