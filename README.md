@@ -3,7 +3,7 @@
 - 💼 Head of IT infrastructure on paper | An Intrapreneur in action 👋 
 - 🌙 Full Stack Developer by Night | Executive MBA candidate on Weekends 🎓
 - 👀 Passionate about Blockchain 🔗,  Decarbonization 🌎 and XR technology 👀
-- 🌱 Learning Python, Decentralized identifiers (DIDs) 🔎 and Hyperledger stack 🥞
+- 🌱 Learning to push the boundaries 🧠 of LLM, 🤖 AI and Machine Learning 💡
 - ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
 - 📫 On [Twitter](https://twitter.com/satishsurath), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://sati.sh/)
 
