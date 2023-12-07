@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 💼 Head of IT infrastructure on paper | An Intrapreneur in action 👋 
-- 🌙 Full Stack Developer by Night | Executive MBA candidate on Weekends 🎓
-- 👀 Passionate about Generative AI 🤖,  Decarbonization 🌎 and XR technology 👀
+- 🌙 Full Stack Developer by Night | Executive MBA and Entrepreneurial Strategy Consultant on Weekends 🎓
+- 👀 Passionate about Generative AI 🤖, Entrepreneurship 🚀 and Sustainability 🌎
 - 🌱 Learning to push the boundaries 🧠 of LLM, 🤖 AI and Machine Learning 💡
 - ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
 - 📫 On [Twitter](https://twitter.com/satishsurath), [Linkedin](https://www.linkedin.com/in/satishsurath/) and [Web](https://sati.sh/)
