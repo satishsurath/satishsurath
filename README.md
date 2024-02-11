@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 Head of IT infrastructure on paper | An Intrapreneur in action 👋 
-- 🌙 Full Stack Developer by Night | GenAI Strategist by Day  | Entrepreneurial Strategy Consultant on Weekends 🎓
+- 🌙 Hobbyist Full Stack Developer | Progessional GenAI Strategist | Weekend Entrepreneurial Strategy Consultant 🎓
 - 👀 Passionate about Generative AI 🤖, Entrepreneurship 🚀 and Sustainability 🌎
 - 🌱 Learning to push the boundaries 🧠 of LLM, 🤖 AI and Machine Learning 💡
 - ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
