@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 Head of IT infrastructure on paper | An Intrapreneur in action 👋 
-- 🌙 Hobbyist Full Stack Developer | Technology Strategist | Weekend Entrepreneurial Strategy Consultant 🎓
+- 🌙 Hobbyist Full Stack Developer | Technology Strategist | Entrepreneurial Strategy Consultant 🎓
 - 👀 Passionate about Generative AI 🤖, Entrepreneurship 🚀 and Sustainability 🌎
 - 🌱 Learning to push the boundaries 🧠 of LLM, 🤖 AI and Machine Learning 💡
 - ⚡ Love Endorphins 🏃‍♂️, Outdoors ⛰ and Manufacturing Serendipity 🛠
